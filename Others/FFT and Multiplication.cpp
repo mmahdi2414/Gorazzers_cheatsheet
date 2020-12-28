@@ -1,4 +1,3 @@
-//From "You Know Izad?" team cheatsheet
 #define base complex<double>  
 void fft (vector<base> & a, bool invert){  
     if (L(a) == 1) return;  
